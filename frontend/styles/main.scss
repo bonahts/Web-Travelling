@@ -138,21 +138,21 @@ header{
 
             .travel-country {
                 font-size: 18px;
-                color: #fff;
+                color: rgb(19, 13, 13);
             }
             .travel-location {
                 font-size: 26px;
-                color: #fff;
+                color: rgb(19, 13, 13);
             }
 
             .travel-button {
                 .btn-travel-details {
                     background-color: #FF9353;
-                    color: #fff;
+                    color: rgb(19, 13, 13);
 
                     &:hover {
                         background-color: #FFAE6F;
-                        color: #fff;
+                        color: rgb(19, 13, 13);
                     }
                 }
             }
@@ -161,6 +161,53 @@ header{
  
 }
 
+.section-networks{
+    background-color: #fff;
+    margin-top: -170px;
+    padding-top: 240px;
+    padding-bottom: 50px;
+
+    h2{
+        font-family: 'Playfair Display', serif;
+        font-weight: bold;
+        font-size: 40px;
+    }
+    p{
+        font-size: 18px;
+    }
+    img{
+        max-width: 100%;
+    }
+
+}
+
+.section-testimonial-heading{
+        background: linear-gradient(#fff 0%, #f7f9f7 100%);
+        padding-top: 50px;
+        min-height: 506px;
+
+        h2{
+            font-family: "playfair Display", serif;
+            font-weight: bold;
+            font-size: 40px;
+        }
+        p{
+            font-size: 18px;
+            
+        }
+}
+
+.section-testimonial-content{
+    margin-top: -300px;
+    padding-bottom: 50px;
+
+    .card-testimonial{
+        padding: 40px 30px 10px;
+        border-radius: 11px;
+    }
+    
+
+}
 
 // .travel-country{
 //     font-size: 18px;
