@@ -186,5 +186,63 @@ header .btn-get-started:hover {
 .section-testimonial-content .card-testimonial {
   padding: 40px 30px 10px;
   border-radius: 11px;
+  margin-bottom: 20px;
+}
+
+.section-testimonial-content .card-testimonial .testimoniL-content {
+  min-height: 380px;
+}
+
+.section-testimonial-content .card-testimonial h3 {
+  font-size: 22px;
+}
+
+.section-testimonial-content .card-testimonial .testimonial {
+  font-weight: 200;
+  font-size: 26px;
+  text-align: center;
+  color: #6e6e6e;
+  min-height: 160px;
+}
+
+.section-testimonial-content .card-testimonial .trip-to {
+  font-weight: normal;
+  font-size: 22px;
+  color: #6e6e6e;
+}
+
+.section-testimonial-content .card-testimonial hr {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.section-testimonial-content .btn-get-started {
+  background-color: #FF9353;
+  color: #fff;
+}
+
+.section-testimonial-content .btn-get-started:hover {
+  background-color: #ffaa69;
+  color: #fff;
+}
+
+.section-testimonial-content .btn-need-help {
+  background-color: #1E3771;
+  color: #c3c3c3;
+}
+
+.section-testimonial-content .btn-need-help:hover {
+  background-color: #fafafa;
+  color: #c3c3c3;
+}
+
+.section-footer a {
+  color: #071C4D;
+}
+
+.section-footer h1 {
+  font-family: 'Assistant', serif;
+  font-weight: bold;
+  font-size: 50px;
 }
 /*# sourceMappingURL=main.css.map */
